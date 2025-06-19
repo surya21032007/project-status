@@ -1,5 +1,3 @@
-
-
 # Password Strength Analyzer + Custom Wordlist Generator
 
 ## 🔐 Overview
